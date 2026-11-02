@@ -1,0 +1,13 @@
+{
+  "title": "Decidra Whitepaper",
+  "version": "0.1",
+  "date": "2026-11-02",
+  "status": "public discussion draft",
+  "file": "whitepaper-v0.1.md",
+  "sha256": "8352e2de4fc8ef42728c55ac5f51d1eb413131703523ecc17efabef24164ca1c",
+  "application_status": "local-only; off-chain test-credit pilot",
+  "token_network": "BSC Testnet",
+  "chain_id": 97,
+  "token_redemption": "not implemented",
+  "mainnet": "not announced"
+}
